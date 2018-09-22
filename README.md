@@ -1,2 +1,2 @@
-# Prjekt-testowy
+# Projekt-testowy
 Testowe repzytorium

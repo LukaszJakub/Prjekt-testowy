@@ -5,3 +5,5 @@ Linia pierwsza
 Linia druga
 
 Dodano galąź "branch1"
+
+Dodano gałąź "branch2"

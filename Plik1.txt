@@ -3,3 +3,5 @@ Pierwszy plik testowy
 Linia pierwsza
 
 Linia druga
+
+Dodano galąź "branch1"

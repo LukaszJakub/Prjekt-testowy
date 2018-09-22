@@ -1,3 +1,5 @@
 Pierwszy plik testowy
 
 Linia pierwsza
+
+Linia druga

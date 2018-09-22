@@ -5,3 +5,5 @@ Linia pierwsza
 Linia druga
 
 Dodano galąź "branch1"
+
+Dodano w "master" po "branch 2"

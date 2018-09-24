@@ -14,3 +14,5 @@ fork - kopia repo na innym koncie
 pull request - zapytanie o sciagniecie zmian z kopii do oryginału
 
 Dodane First issue 
+
+Dodajemy fixes

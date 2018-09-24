@@ -9,3 +9,6 @@ Dodano galąź "branch1"
 Dodano gałąź "branch2"
 
 Dodano w "master" po "branch 2"
+
+fork - kopia repo na innym koncie
+pull request - zapytanie o sciagniecie zmian z kopii do oryginału
